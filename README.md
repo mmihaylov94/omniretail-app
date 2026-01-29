@@ -122,4 +122,4 @@ Create `.env` with:
 
 This repo is intended to run independently as a frontend service (static build) and can be served via Nginx behind a reverse proxy.
 
-Backend repo: **omniretail-api**
+Backend repo: [**omniretail-api**](https://github.com/mmihaylov94/omniretail-api)
