@@ -13,7 +13,7 @@ export default function App() {
 
   return (
     <div style={{ padding: 24 }}>
-      <h1>Omniretail Frontend</h1>
+      <h1 class="text-red-500">Omniretail Frontend</h1>
 
       {error && <p style={{ color: "red" }}>Error: {error}</p>}
 
