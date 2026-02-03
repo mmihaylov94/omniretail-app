@@ -123,3 +123,9 @@ Create `.env` with:
 This repo is intended to run independently as a frontend service (static build) and can be served via Nginx behind a reverse proxy.
 
 Backend repo: [**omniretail-api**](https://github.com/mmihaylov94/omniretail-api)
+
+## Feature Contract
+
+This frontend consumes the OmniRetail API according to a shared contract.
+
+See: [`docs/feature-contract.md`](https://github.com/mmihaylov94/omniretail-app/blob/main/docs/feature-contract.md)
